@@ -1,8 +1,13 @@
 /node_modules
 /public/hot
 /public/storage
+/public/.htaccess
 /storage/*.key
 /vendor
+/public/storage
+.htaccess
+.htaccess_local
+.htaccess_server
 .env
 .env.server
 .phpunit.result.cache
